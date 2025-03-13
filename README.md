@@ -11,3 +11,5 @@ Left swipe: 'Jump' backwards 10 seconds
 Right swipe: 'Jump' forward 10 seconds
 Stop: Pause the movie
 The training data consists of a few hundred videos categorised into one of the five classes. Each video (typically 2-3 seconds long) is divided into a sequence of 30 frames(images). These videos have been recorded by various people performing one of the five gestures in front of a webcam - similar to what the smart TV will use.
+
+Drive :- https://drive.google.com/drive/folders/1WI1iWDZx8EqRb2dzfkQMTckS3OT9jISj
